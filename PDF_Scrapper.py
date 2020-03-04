@@ -247,7 +247,7 @@ for i in range(len(vec_number)):
 
     vec_estado = []
 
-## Ahora el dataframe debería de estar completo :)
+## Ahora el dataframe debería de estar completo 
 
 
 
